@@ -1,0 +1,16 @@
+Variables:
+X piece boundary locations
+X board size
+X choke points (not abstracted)
+X Piece amounts
+X *move rules
+X *battle
+X win conditions
+X history move rules
+
+constants:
+X update pieces
+X remove pieces
+X get pieces
+X basic validator
+X History logging

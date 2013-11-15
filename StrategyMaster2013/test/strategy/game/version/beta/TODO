@@ -1,0 +1,36 @@
+X Create a Game
+X Try and move before initialization -> exception
+X Create AlphaStrategyGameController in factory
+X Create BetaStrategyGameController in factory
+X create a list of piece descriptions
+X create pieces
+X place pieces in board
+X start game
+X move red piece forward one
+X move blue piece forward one
+X Check input has 12 pieces
+X check input has correct pieces
+X check input has valid locations
+X implement getpieceat
+X Update piece movement
+X check valid moves
+X Check invalid move
+X create battle rules function
+X red piece attack blue piece -> win
+X red piece attack blue piece -> lose
+X Flag cannot move
+X can't move out of bounds
+X can't move on another allied piece
+X can't move from out of bounds (invalid from input)
+X blue piece attack red piece -> win
+X blue piece attack red piece -> lose
+X battle ending in draw
+X add win condition (capture flag)
+X Red Win
+X Blue win
+X Check that piece being moved exists
+X end game in 12 turns (6 for each side)
+X implement turn order
+X red must move first
+X can't move after game over
+
